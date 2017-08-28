@@ -1,0 +1,9 @@
+(dp0
+S'image_file'
+p1
+S'../pictures/bm2.jpg'
+p2
+sS'markers'
+p3
+(lp4
+s.

@@ -1,0 +1,11 @@
+{
+"blur_neighborhood" : 21,             
+"binary_threshold" : 50,  
+"resize_width" : 500,   
+"min_area" : 500,      
+"alpha_weight" : 0.2,  
+"max_idle_time" : 10,  
+"frame_delay" : 10,
+"take_snapshots" : true,
+"send_dweet" : true    
+}
